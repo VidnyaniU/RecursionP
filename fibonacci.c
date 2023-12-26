@@ -15,7 +15,7 @@ int main()
     // printf("Fibonacci of %d is %d.\n", n, fib(n));
     for (int i = 0; i < n; i++)
     {
-        printf("%d ", fib(i));
+        printf("%d  ", fib(i));
     }
 
     return 0;
