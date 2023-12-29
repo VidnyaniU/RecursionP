@@ -28,8 +28,8 @@ bool isSafe(int arr[4][4], int x, int y, int n)
     }
 
     // for right diagonal
-    row = x;
-    col = y;
+    // row = x;
+    // col = y;
 
     while (row >= 0 && col < n)
     {
