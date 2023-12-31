@@ -19,7 +19,7 @@ int countK(int n, int k)
 }
 int main()
 {
-    printf("%d", countK(21205450, 1));
+    printf("%d", countK(21205450, 5));
 
     return 0;
 }
