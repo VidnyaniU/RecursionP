@@ -2,7 +2,7 @@
 public class skipChar {
 
     public static void main(String[] args) {
-        skip("", "banana");
+        skip("", "bananana");
         System.out.println(skipR("banana"));
     }
 
